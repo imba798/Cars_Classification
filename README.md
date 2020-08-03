@@ -6,7 +6,7 @@ Fine-grained classification on Stanfrod Cars-196
 http://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 ## Dependencies
-torch\<br>
+torch<\br>
 torchvision\<br>
 scipy\<br>
 os\<br>
