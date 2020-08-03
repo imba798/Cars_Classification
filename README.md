@@ -6,19 +6,19 @@ Fine-grained classification on Stanfrod Cars-196
 http://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 ## Dependencies
-torch
-torchvision
-scipy
-os
-PIL
-matplotlib
-shutil
-random
-sklearn
-xgboost
+torch\<br>
+torchvision\<br>
+scipy\<br>
+os\<br>
+PIL\<br>
+matplotlib\<br>
+shutil\<br>
+random\<br>
+sklearn\<br>
+xgboost\<br>
 
 ## File structure
-put all the images under ./car_ims
-put cars_annos.mat under ./
-put AudivsBMW.ipynb under ./
-put Cars.ipynb under ./
+put all the images under ./car_ims \<br>
+put cars_annos.mat under ./ \<br>
+put AudivsBMW.ipynb under ./ \<br>
+put Cars.ipynb under ./ \<br>
