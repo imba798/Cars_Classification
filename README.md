@@ -7,8 +7,8 @@ http://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 ## Dependencies
 torch<\br>
-torchvision\<br>
-scipy\<br>
+torchvision<br\>
+scipy  
 os\<br>
 PIL\<br>
 matplotlib\<br>
