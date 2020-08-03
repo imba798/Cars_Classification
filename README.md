@@ -6,19 +6,23 @@ Fine-grained classification on Stanfrod Cars-196
 http://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 ## Dependencies
-torch<\br>
-torchvision<br\>
+torch  
+torchvision  
 scipy  
-os\<br>
-PIL\<br>
-matplotlib\<br>
-shutil\<br>
-random\<br>
-sklearn\<br>
-xgboost\<br>
+os  
+PIL  
+matplotlib  
+shutil  
+random  
+sklearn  
+xgboost  
 
 ## File structure
-put all the images under ./car_ims \<br>
-put cars_annos.mat under ./ \<br>
-put AudivsBMW.ipynb under ./ \<br>
-put Cars.ipynb under ./ \<br>
+put all the images under ./car_ims   
+put cars_annos.mat under ./   
+put AudivsBMW.ipynb under ./   
+put Cars.ipynb under ./   
+
+## Notice
+The .png files are just some loss curves from the training.  
+I do not put it in the report due to the space limitation
